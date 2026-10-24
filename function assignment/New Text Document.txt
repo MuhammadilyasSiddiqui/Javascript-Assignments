@@ -1,0 +1,19 @@
+// alert
+// variables
+// prompt
+// Array
+// if Conditions
+// for loop
+// while loopdo while loop
+// function
+// modulus%
+// document.write
+
+// Javascript Projects
+
+// calculator
+// to do list
+// weather app
+// quiz app
+
+// Dom for reading
